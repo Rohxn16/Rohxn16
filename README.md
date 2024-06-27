@@ -40,3 +40,8 @@ Hi there 👋, I am
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,linux,bash,vim,emacs,neovim,selenium,vite,latex,figma)
 
+
+## ✍️ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rohxn16&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohxn16&theme=chartreuse-dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohxn16&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
