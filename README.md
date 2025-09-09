@@ -24,10 +24,10 @@ Hi there 👋, I am
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
 
 #### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,heroku,netlify)
+![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,heroku)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,linux,bash,vim,emacs,neovim,selenium,vite,latex,figma)
+![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,linux,bash,vim,neovim,vite,latex,figma)
 
 
 ## ✍️ GitHub Stats:
