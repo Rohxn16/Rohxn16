@@ -2,9 +2,9 @@ Hi there 👋, I am
 
 # Rohan Dey, and I'm a
 
-## Android and API Developer and Cyber Security Enthusiast.
+## AI and Machine Learning Engineer.
 
-#### Reach out to me on my deyrohan16305@gmail.com or rohxn16@gmail.com or you can find my socials below.
+#### Reach out to me on my dev.rohxn16@gmail.com or rohxn16@gmail.com or you can find my socials below.
 
 ## SOCIALS 🌐
 
@@ -12,23 +12,7 @@ Hi there 👋, I am
 
 ## TECH STACK
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,rust,kotlin)
-
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,materialui)
-
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,spring)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
-
-#### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,heroku)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,linux,bash,vim,neovim,vite,latex,figma)
-
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,,kotlin)
 
 ## ✍️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rohxn16&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
