@@ -12,7 +12,7 @@ Hi there 👋, I am
 
 ## TECH STACK
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,,kotlin)
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,Go,kotlin)
 
 ## ✍️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rohxn16&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
