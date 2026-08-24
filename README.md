@@ -2,7 +2,8 @@ Hi there 👋, I am
 
 # Rohan Dey, and I'm a
 
-## AI and Machine Learning Engineer.
+## Final year Computer Science Engineering Student Specializing in Cybersecurity.
+## I create scalable end-to end AI powered applications with a special emphasis on security and safeguarding AI for ethical use.
 
 #### Reach out to me on my dev.rohxn16@gmail.com or rohxn16@gmail.com or you can find my socials below.
 
